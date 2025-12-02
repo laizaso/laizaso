@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Láiza Silva
 
-**`Desenvolvedora FullStack`**
+**`Back-End Developer`**
 
 Me chamo Láiza Silva, tenho 22 anos e atualmente resido na cidade de Salvador, onde curso Ciência e Tecnologia na UFBA. Sou entusiasta da área de tecnologia, desenvolvo projetos na stack de back-end a um ano, os quais compartilho no meu perfil no Linkedin [Láiza Silva](https://www.linkedin.com/in/l%C3%A1iza-silva-b42096243/)". 
 
