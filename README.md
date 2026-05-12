@@ -2,7 +2,7 @@
 
 **`Back-End Developer`**
 
-Me chamo Láiza Silva, tenho 22 anos e atualmente resido na cidade de Salvador, onde curso Ciência da Computação na UFBA. Sou entusiasta da área de tecnologia e desenvolvo projetos na stack de back-end a um ano, os quais compartilho no meu perfil no Linkedin [Láiza Silva](https://www.linkedin.com/in/l%C3%A1iza-silva-b42096243/)". Recentemente, assumi o cargo de Diretora de Desenvolvimento na organização TITAN Jr., atual empresa júnior de engenharia da computação da UFBA.
+Me chamo Láiza Silva, tenho 23 anos e atualmente resido na cidade de Salvador. Sou Bacharela em Ciência e Tecnologia e atual estudante do Bacharelado em Ciência da Computação. Sou entusiasta da área de tecnologia e desenvolvo projetos na stack de back-end a cerca de 2 anos, os quais compartilho no meu perfil no Linkedin [Láiza Silva](https://www.linkedin.com/in/l%C3%A1iza-silva-b42096243/)". Recentemente, assumi o cargo de Diretora de Desenvolvimento na organização TITAN Jr., atual empresa júnior de engenharia da computação da UFBA.
 
 
 <p align="left">
